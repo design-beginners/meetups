@@ -1,0 +1,88 @@
+html,body {
+	width: 100%;
+	color: #EEE;
+}
+
+body {
+	font-family: Meiryo,'メイリオ','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
+	zoom: 1;
+	width: 100%;
+	min-width: 960px;
+}
+
+.header {
+	background-color: #111;
+	border-bottom: #888 solid 1px;
+}
+
+.header-inner,
+.footer-inner,
+.main-visual-inner,
+.content{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header-caption {
+	font-size: 0;
+	padding: 5px 0;
+}
+
+.main-visual {
+	background: url(/img/main_background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 300px;
+}
+
+.main-logo {
+	margin: 50px 0 50px;
+	float : left;
+}
+
+.catch-copy {
+	float : left;
+	margin: 100px 0 0 30px;
+}
+
+.catch-copy-caption {
+	font-size: 2.8em;
+	text-shadow: 1px 1px 3px #000; 
+}
+
+.catch-copy-discription {
+	margin: 10px 0 0 0;
+}
+
+.disp {
+	clear :both;
+	padding: 10px 0;
+	margin: 10px 0 30px;
+}
+
+.disp-image {
+	float : left;
+}
+
+.disp-discription {
+	margin: 0 0 0 15px;
+	float : left;
+	line-height: 20px;
+	letter-spacing: 1px;
+	color: #222;
+}
+
+.disp-discription-caption {
+	font-size: 1.6em;
+	font-weight: bold;
+	margin: 0 0 10px;
+}
+
+.footer {
+	clear :both;
+	color : #222;
+}
+.footer-inner {
+	text-align: center;
+}
