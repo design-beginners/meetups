@@ -1,6 +1,8 @@
 meetups
 =======
 
+[![Join the chat at https://gitter.im/design-beginners/meetups](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/design-beginners/meetups?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 デザインビギナーズの記録用リポジトリ。
 
 * ミートアップ情報は [Doorkeeper](http://debeg.doorkeeper.jp/) に載せています。
